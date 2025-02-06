@@ -1,1 +1,0 @@
-gilded_rose.update_quality()
